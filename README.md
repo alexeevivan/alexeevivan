@@ -1,4 +1,4 @@
-![Header](https://github.com/alexeevivan/alexeevivan/blob/main/assets/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1.png)
+[![Header](https://github.com/alexeevivan/alexeevivan/blob/main/assets/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1.png)]()
 
 ## About me:
 
@@ -6,7 +6,7 @@ I'm a beginner Software Engineer, that started after 8 years of experience at th
 
 ## Languages and Tools:
 
-![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=green)
+[![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=green)](https://www.python.org/dev/peps/pep-0020/#id2)
 
 ## Follow or message me via:
 [![VK](https://img.shields.io/badge/-Vkontakte-white?style=for-the-badge&logo=vk&logoColor=brown)](https://vk.com/freedomai)
