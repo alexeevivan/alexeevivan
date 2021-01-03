@@ -2,7 +2,7 @@
 
 ## About me:
 
-I'm a beginner Software Engineer, who's started after 8 years of experience at the travel and hospitality industry
+I'm a beginner Software Engineer, who's started after 8 years of experience at the travel and hospitality industry. The last job was as a casino's restaurant manager, that i received at 27, so i'm very motivated and inspired.
 
 ## Languages and Tools:
 
