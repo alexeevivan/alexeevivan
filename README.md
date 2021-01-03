@@ -2,7 +2,7 @@
 
 ## About me:
 
-I'm a beginner Software Engineer, that started after 8 years of experience at the F&B 
+I'm a beginner Software Engineer, who's started after 8 years of experience at the travel and hospitality industry
 
 ## Languages and Tools:
 
