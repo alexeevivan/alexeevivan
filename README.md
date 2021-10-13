@@ -21,4 +21,4 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=blue)](https://alexeevivan92@gmail.com)
 
 ## Stats
-> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexeevivan&show_icons=True&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexeevivan&show_icons=True&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
