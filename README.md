@@ -1,8 +1,5 @@
 [![Header](https://github.com/alexeevivan/alexeevivan/blob/main/assets/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1.png)]()
 ## Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-## About me:
-
 I'm a beginner Software Engineer, who's started after 8 years of experience at the travel and hospitality industry. The last job was as a casino's restaurant manager, that i received at 27, so i'm very motivated and inspired.
 
 ## Languages and Tools:
