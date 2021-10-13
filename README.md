@@ -20,5 +20,5 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-black?style=for-the-badge&logo=whatsapp&logoColor=blue)](https://wa.me/+375447506008)
 [![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=blue)](https://alexeevivan92@gmail.com)
 
-## Stats
-> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexeevivan&show_icons=True&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+## Stats515151
+> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexeevivan&show_icons=True&theme=solarized-light&title_color=DAA521&icon_color=007EC6&border_color=2F363D&text_color=8B949E&bg_color=0D1115)](https://github.com/anuraghazra/github-readme-stats)
