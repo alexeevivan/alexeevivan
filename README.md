@@ -1,6 +1,7 @@
 [![Header](https://github.com/alexeevivan/alexeevivan/blob/main/assets/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1.png)]()
 ## Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 > I'm a beginner Software Engineer, who's started after 8 years of experience at the travel and hospitality industry. The last job was as a casino's restaurant manager, that i received at 27, so i'm very motivated and inspired.
+###### I’m currently working on something cool
 
 ## Languages and Tools:
 
@@ -20,5 +21,8 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-black?style=for-the-badge&logo=whatsapp&logoColor=blue)](https://wa.me/+375447506008)
 [![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=blue)](https://alexeevivan92@gmail.com)
 
-## Stats515151
+## Stats
 > [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexeevivan&show_icons=True&theme=solarized-light&title_color=DAA521&icon_color=007EC6&border_color=2F363D&text_color=8B949E&bg_color=0D1115)](https://github.com/anuraghazra/github-readme-stats)
+
+## That's languages I used the most
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeevivan&layout=compact&theme=solarized-light&title_color=DAA521&border_color=2F363D&text_color=8B949E&bg_color=0D1115)](https://github.com/anuraghazra/github-readme-stats)
