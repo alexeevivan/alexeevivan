@@ -1,8 +1,6 @@
 [![Header](https://github.com/alexeevivan/alexeevivan/blob/main/assets/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1.png)]()
 ## Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-> I'm a beginner Software Engineer, who's started after 8 years of experience at the travel and hospitality industry. The last job was as a casino's restaurant manager, that i received at 27, so i'm very motivated and inspired.
-
-![](https://komarev.com/ghpvc/?username=alexeevivan)
+> My goal is to provide the highest quality services on the exchange, based on the speed of order fulfillment and the principles of ease of interaction with my code of other developers in the process of further project support.
 
 ## Languages and Tools:
 > ![HTML5](https://img.shields.io/badge/HTML5-17181D?style=for-the-badge&logo=html5&logoColor=goldenrod)
