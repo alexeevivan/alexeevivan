@@ -10,7 +10,7 @@
 ![Sass](https://img.shields.io/badge/Sass-17181D?style=for-the-badge&logo=sass&logoColor=goldenrod)
 ![Gulp](https://img.shields.io/badge/Gulp-17181D?style=for-the-badge&logo=gulp&logoColor=goldenrod)
 ![MarkDown](https://img.shields.io/badge/Markdown-17181D?style=for-the-badge&logo=markdown&logoColor=goldenrod)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=goldenrod)](https://www.python.org/dev/peps/pep-0020/#id2)
+[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=goldenrod)](https://www.python.org/dev/peps/pep-0020/#id2)
 ![Django](https://img.shields.io/badge/Django-17181D?style=for-the-badge&logo=django&logoColor=goldenrod)
 
 ## Follow or message me via:
