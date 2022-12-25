@@ -5,13 +5,17 @@
 ![](https://komarev.com/ghpvc/?username=alexeevivan)
 
 ## Languages and Tools:
-> ![HTML](https://img.shields.io/badge/HTML5-17181D?style=for-the-badge&logo=html5&logoColor=goldenrod)
-![CSS](https://img.shields.io/badge/CSS3-17181D?style=for-the-badge&logo=css3&logoColor=goldenrod)
+> ![HTML5](https://img.shields.io/badge/HTML5-17181D?style=for-the-badge&logo=html5&logoColor=goldenrod)
+![CSS3](https://img.shields.io/badge/CSS3-17181D?style=for-the-badge&logo=css3&logoColor=goldenrod)
 ![Sass](https://img.shields.io/badge/Sass-17181D?style=for-the-badge&logo=sass&logoColor=goldenrod)
+![JS](https://img.shields.io/badge/JavaScript-17181D?style=for-the-badge&logo=javascript&logoColor=goldenrod)
 ![Gulp](https://img.shields.io/badge/Gulp-17181D?style=for-the-badge&logo=gulp&logoColor=goldenrod)
+![Node](https://img.shields.io/badge/Node.js-17181D?style=for-the-badge&logo=nodedotjs&logoColor=goldenrod)
 ![MarkDown](https://img.shields.io/badge/Markdown-17181D?style=for-the-badge&logo=markdown&logoColor=goldenrod)
-[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=goldenrod)](https://www.python.org/dev/peps/pep-0020/#id2)
+![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-17181D?style=for-the-badge&logo=DigitalOcean&logoColor=goldenrod)
+[![Python](https://img.shields.io/badge/-Python-17181D?style=for-the-badge&logo=python&logoColor=goldenrod)](https://www.python.org/dev/peps/pep-0020/#id2)
 ![Django](https://img.shields.io/badge/Django-17181D?style=for-the-badge&logo=django&logoColor=goldenrod)
+![MacOS](https://img.shields.io/badge/mac%20os-17181D?style=for-the-badge&logo=apple&logoColor=goldenrod)
 
 ## Follow or message me via:
 > [![VK](https://img.shields.io/badge/-Vk-black?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/freedomai)
