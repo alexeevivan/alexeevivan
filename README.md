@@ -2,6 +2,8 @@
 ## Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 > I'm a beginner Software Engineer, who's started after 8 years of experience at the travel and hospitality industry. The last job was as a casino's restaurant manager, that i received at 27, so i'm very motivated and inspired.
 
+![](https://komarev.com/ghpvc/?username=alexeevivan)
+
 ## Languages and Tools:
 > [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=goldenrod)](https://www.python.org/dev/peps/pep-0020/#id2)
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=goldenrod)
