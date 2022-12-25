@@ -6,13 +6,13 @@
 
 ## Languages and Tools:
 > [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=goldenrod)](https://www.python.org/dev/peps/pep-0020/#id2)
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=goldenrod)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=goldenrod)
-![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=goldenrod)
-![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=goldenrod)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=goldenrod)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=goldenrod)
-![MarkDown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=goldenrod)
+![Django](https://img.shields.io/badge/Django-17181D?style=for-the-badge&logo=django&logoColor=goldenrod)
+![SQLite](https://img.shields.io/badge/SQLite-17181D?style=for-the-badge&logo=sqlite&logoColor=goldenrod)
+![HTML](https://img.shields.io/badge/HTML5-17181D?style=for-the-badge&logo=html5&logoColor=goldenrod)
+![CSS](https://img.shields.io/badge/CSS3-17181D?style=for-the-badge&logo=css3&logoColor=goldenrod)
+![Sass](https://img.shields.io/badge/Sass-17181D?style=for-the-badge&logo=sass&logoColor=goldenrod)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-17181D?style=for-the-badge&logo=bootstrap&logoColor=goldenrod)
+![MarkDown](https://img.shields.io/badge/Markdown-17181D?style=for-the-badge&logo=markdown&logoColor=goldenrod)
 
 ## Follow or message me via:
 > [![VK](https://img.shields.io/badge/-Vk-black?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/freedomai)
