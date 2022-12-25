@@ -5,12 +5,12 @@
 ![](https://komarev.com/ghpvc/?username=alexeevivan)
 
 ## Languages and Tools:
-![HTML](https://img.shields.io/badge/HTML5-17181D?style=for-the-badge&logo=html5&logoColor=goldenrod)
+> ![HTML](https://img.shields.io/badge/HTML5-17181D?style=for-the-badge&logo=html5&logoColor=goldenrod)
 ![CSS](https://img.shields.io/badge/CSS3-17181D?style=for-the-badge&logo=css3&logoColor=goldenrod)
 ![Sass](https://img.shields.io/badge/Sass-17181D?style=for-the-badge&logo=sass&logoColor=goldenrod)
 ![Gulp](https://img.shields.io/badge/Gulp-17181D?style=for-the-badge&logo=gulp&logoColor=goldenrod)
 ![MarkDown](https://img.shields.io/badge/Markdown-17181D?style=for-the-badge&logo=markdown&logoColor=goldenrod)
-> [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=goldenrod)](https://www.python.org/dev/peps/pep-0020/#id2)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=goldenrod)](https://www.python.org/dev/peps/pep-0020/#id2)
 ![Django](https://img.shields.io/badge/Django-17181D?style=for-the-badge&logo=django&logoColor=goldenrod)
 
 ## Follow or message me via:
