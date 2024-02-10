@@ -15,6 +15,7 @@
 [![Python](https://img.shields.io/badge/-Python-17181D?style=for-the-badge&logo=python&logoColor=goldenrod)](https://www.python.org/dev/peps/pep-0020/#id2)
 ![Django](https://img.shields.io/badge/Django-17181D?style=for-the-badge&logo=django&logoColor=goldenrod)
 ![MacOS](https://img.shields.io/badge/mac%20os-17181D?style=for-the-badge&logo=apple&logoColor=goldenrod)
+![WebPack] (https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=goldenrod)
 
 ## Follow or message me via:
 > [![VK](https://img.shields.io/badge/-Vk-black?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/freedomai)
